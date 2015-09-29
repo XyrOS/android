@@ -1,4 +1,4 @@
-# GaiaOS
+# XyrOS
 
 An AOSP Rom.
 
